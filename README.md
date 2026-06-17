@@ -71,8 +71,6 @@ git clone https://github.com/kamil-niznik-03/python-patchwork-maker.git
 cd python-patchwork-maker
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
-
 Run the program:
 
 ```bash
